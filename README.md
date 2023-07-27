@@ -21,7 +21,7 @@ This project is a continuation of the Smart Home IoT project initiated by the or
 
 1. Download this repository.
 2. Install the required libraries listed above by following the provided links.
-3. Open the Arduino IDE and load the `smart_home_project.ino` sketch from the repository.
+3. Open the Arduino IDE and load the `SMART HOME_IOT PROJECT.ino` sketch from the repository.
 4. Customize the code to fit your specific Smart Home setup, such as pins for sensors, Wi-Fi credentials, and Blynk authentication token.
 
 ## Usage
